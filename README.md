@@ -24,6 +24,7 @@ The system is built on AWS Cloud, utilizing a range of AWS services to create a 
 - **GitHub Actions CI/CD**: Automates deployment of CloudFormation stacks and frontend updates.
 
 ## Cloud Architecture
+The designed cloud architecture consists of 9 components including Backend (Data Source), Data Ingestion, Data Storage, Data Transformation, Machine Learning, Frontend, Security, IaC and CI/CD.  
 ![Alt Text](infrastructure-diagram/Cloud_Architecture_Design.png)
 
 ## Deployment
