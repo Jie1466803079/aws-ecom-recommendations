@@ -45,7 +45,7 @@ The designed cloud architecture consists of 9 components including Backend (Data
 ![Alt Text](infrastructure-diagram/Cloud_Architecture_Design.png)
 
 ## Data Flow Diagram
-Data flow within the designed cloud architecture
+Data flow within the designed cloud architecture:
 ![Alt Text](data-flow-diagram/Data_Flow_Diagram.png)
 
 ## Deployment
