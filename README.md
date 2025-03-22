@@ -27,6 +27,9 @@ The system is built on AWS Cloud, utilizing a range of AWS services to create a 
 The designed cloud architecture consists of 9 components including Backend (Data Source), Data Ingestion, Data Storage, Data Transformation, Machine Learning, Frontend, Security, IaC and CI/CD.  
 ![Alt Text](infrastructure-diagram/Cloud_Architecture_Design.png)
 
+## Data Flow Diagram
+![Alt Text](data-flow-diagram/Data_Flow_Diagram.png)
+
 ## Deployment
 1. Clone the repository:
 ```sh
