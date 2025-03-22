@@ -23,6 +23,9 @@ The system is built on AWS Cloud, utilizing a range of AWS services to create a 
 - **Serverless Functions with Lambda**: Handles event-driven automation and data transformations.
 - **GitHub Actions CI/CD**: Automates deployment of CloudFormation stacks and frontend updates.
 
+## Cloud Architecture
+![Alt Text](infrastructure-diagram/Cloud Architecture Design.png)
+
 ## Deployment
 1. Clone the repository:
 ```sh
