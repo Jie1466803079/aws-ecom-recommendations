@@ -23,12 +23,14 @@ The system is built on AWS Cloud, utilizing a range of AWS services to create a 
 │   ├── package.json (Lists project metadata and dependencies, and defines scripts for tasks like starting the development server)
 │   ├── postcss.config.js (Configuration file for PostCSS, a tool for transforming CSS with plugins)
 │   ├── tailwind.config.js (Configuration file for Tailwind CSS, allowing customization of the utility-first CSS framework)
-│-- frontend/
-
-
+│-- infrastructure-diagram/
+│   ├── High-level cloud architecture design
+│   ├── Detailed cloud architecture design
 │-- data-flow-diagram/
-│   ├── Workflows for GitHub Actions to deploy CloudFormation stacks and frontend
-
+│   ├── Data flow within the designed cloud architecture
+│-- project-demo/
+│   ├── Project demo presentation slides
+│   ├── Project demo video
 ```
 
 ## Features
