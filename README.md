@@ -4,6 +4,8 @@ Instacart, an e-commerce company, faces challenges in delivering a personalized 
 
 The system is built on AWS Cloud, utilizing a range of AWS services to create a fully automated data pipeline for data processing, transformation, and machine learning model deployment. This project leverages services such as AWS Glue, IAM, SageMaker, S3, Systems Manager (SSM), WAF, and CloudFormation to automate infrastructure provisioning and ETL processes.
 
+This project was completed between October 2024 and January 2025 by a team of seven, including myself, under the guidance of two project supervisors.
+
 ## Repository Structure
 ```aws-ecom-recommendation-system/
 │-- .github/
