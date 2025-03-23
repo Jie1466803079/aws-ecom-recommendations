@@ -1,6 +1,6 @@
 # AWS E-Commerce Recommendation System
 ## Overview
-Instacart, an e-commerce company, faces challenges in delivering a personalized shopping experience to its customers, leading to issues with customer retention, declining sales, and reduced revenue. To address these problems, this project analyzed over three million orders/sales records and developed a recommendation system to enhance product recommendations and improve user engagement.
+Instacart, an e-commerce company, faces challenges in delivering a personalized shopping experience to its customers, leading to issues with customer retention, declining sales, and reduced revenue. To address these problems, this project analyzed over three million orders/sales records and developed a recommendation system to enhance product recommendations and improve user engagement. Product recommendations were generated based on users’ purchasing behaviors.
 
 The system is built on AWS Cloud, utilizing a range of AWS services to create a fully automated data pipeline for data processing, transformation, and machine learning model deployment. This project leverages services such as AWS Glue, IAM, SageMaker, S3, Systems Manager (SSM), WAF, and CloudFormation to automate infrastructure provisioning and ETL processes.
 
